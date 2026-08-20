@@ -1,0 +1,142 @@
+body {
+    background-color: beige;
+    font-family: Arial, sans-serif;
+    color: rgb(74, 71, 71);
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+    border-bottom: 2px solid rgb(74, 71, 71);
+}
+
+header h1 {
+    color: rgb(74, 71, 71);
+    margin: 10px 0;
+    font-size: 2.5em;
+}
+
+.navbar {
+    background-color: white;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.navbar a {
+    color: rgb(74, 71, 71);
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+.navbar a:hover {
+    color: #8B7355;
+}
+
+.event-info {
+    background-color: #faf8c5;
+    padding: 15px;
+    margin: 10px 0;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.about {
+    background-color: #faf8c5;
+    padding: 30px;
+    margin: 20px auto;
+    max-width: 900px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.about h2 {
+    color: rgb(74, 71, 71);
+    font-size: 1.8em;
+    margin-top: 0;
+}
+
+.about p {
+    text-align: justify;
+    line-height: 1.6;
+}
+
+section {
+    background-color: white;
+    padding: 30px;
+    margin: 20px auto;
+    max-width: 900px;
+    border-radius: 5px;
+}
+
+section h2 {
+    color: rgb(74, 71, 71);
+    font-size: 1.8em;
+    margin-top: 0;
+}
+
+section h3 {
+    color: #8B7355;
+}
+
+form {
+    max-width: 600px;
+}
+
+label {
+    display: block;
+    margin-top: 15px;
+    font-weight: bold;
+    color: rgb(74, 71, 71);
+}
+
+input[type="text"],
+input[type="email"],
+input[type="tel"],
+textarea,
+select {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0 15px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-family: Arial, sans-serif;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #faf8c5;
+    color: rgb(74, 71, 71);
+    padding: 10px 25px;
+    margin: 10px 5px;
+    border: 1px solid rgb(74, 71, 71);
+    border-radius: 4px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 1em;
+}
+
+button:hover {
+    background-color: #f0f0a0;
+}
+
+ul, ol {
+    text-align: left;
+}
+
+li {
+    margin: 8px 0;
+}
+
+footer {
+    background-color: white;
+    text-align: center;
+    padding: 20px;
+    border-top: 2px solid rgb(74, 71, 71);
+    margin-top: 40px;
+    color: rgb(74, 71, 71);
+}
