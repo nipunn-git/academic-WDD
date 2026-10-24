@@ -1,6 +1,6 @@
 ﻿# CGPA Calculator
 
-A simple browser-based CGPA calculator. Enter marks and credit values for your subjects to calculate a credit-weighted CGPA using the grade point scale below.
+A simple browser-based academic planner. Calculate a semester CGPA from subject marks and credits, track semester results, and plan for a target CGPA.
 
 ## Contributors
 
@@ -16,6 +16,8 @@ A simple browser-based CGPA calculator. Enter marks and credit values for your s
 - Convert marks to grade points automatically.
 - Calculate CGPA as a weighted average based on subject credits.
 - Validate marks and credits and show the result to two decimal places.
+- Track semester CGPAs on the dashboard; results are saved in your browser.
+- Use the goal planner to estimate the GPA needed next semester to reach a target.
 
 ## Grade Point Scale
 
@@ -34,16 +36,19 @@ A simple browser-based CGPA calculator. Enter marks and credit values for your s
 ## Run the Project
 
 1. Download or clone this repository.
-2. Open `index.html` in a modern web browser.
+2. Open `index.html` in a modern web browser and use the navigation to visit the calculator, dashboard, and goal planner.
 3. Add subjects, enter marks (0–100) and positive credit values, then select **Calculate CGPA**.
 
 No installation or build tools are required.
 
 ## Project Files
 
-- `index.html` — calculator page and grade scale.
-- `style.css` — page styling.
-- `script.js` — subject rows, grade conversion, validation, and calculation logic.
+- `index.html` — home page.
+- `calculator.html` — calculator and grade scale.
+- `dashboard.html` — semester history and CGPA summary.
+- `planner.html` — goal CGPA planner.
+- `style.css` — styling for all pages.
+- `script.js` — calculator, dashboard, and planner logic.
 
 
 ## Technologies
