@@ -50,6 +50,8 @@ No installation or build tools are required.
 - `style.css` — styling for all pages.
 - `script.js` — calculator, dashboard, and planner logic.
 
+WDD
+
 
 ## Technologies
 
