@@ -50,9 +50,16 @@ No installation or build tools are required.
 - `style.css` — styling for all pages.
 - `script.js` — calculator, dashboard, and planner logic.
 
-WDD
-
-
 ## Technologies
 
 HTML, CSS, and vanilla JavaScript.
+
+## Future Improvements
+
+The project will continue to evolve with a focus on:
+
+- Improving existing functionality.
+- Enhancing code organization.
+- Optimizing performance.
+- Improving developer experience.
+- Adding useful features over time.
