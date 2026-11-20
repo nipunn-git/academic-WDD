@@ -63,3 +63,9 @@ The project will continue to evolve with a focus on:
 - Optimizing performance.
 - Improving developer experience.
 - Adding useful features over time.
+
+## Project Philosophy
+
+Building software is a continuous process of learning, experimenting and improving.
+
+The goal is to create practical solutions while maintaining simplicity, performance and usability.
